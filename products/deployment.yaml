@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: products
-        image: registry.cloudemon.me/devops-620/products:latest
+        image: registry.cloudemon.me/devops-620/products:56fa530
         resources:
           # Add this section
           requests:
