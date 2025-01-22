@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: customer
-        image: registry.cloudemon.me/devops-620/customer:latest # Thay bằng image của bạn
+        image: registry.cloudemon.me/devops-620/customer:6e4c8ff # Thay bằng image của bạn
         resources:
           requests:
             memory: "256Mi"
